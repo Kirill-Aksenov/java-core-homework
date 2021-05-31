@@ -1,4 +1,4 @@
-package com.company.lesson13;
+package lesson13;
 
 public abstract class Stage {
     protected int length;

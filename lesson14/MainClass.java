@@ -1,4 +1,4 @@
-package com.company.lesson14;
+package lesson14;
 
 public class MainClass {
 

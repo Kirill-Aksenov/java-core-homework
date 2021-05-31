@@ -1,7 +1,7 @@
-package com.company.lesson13;
+package lesson13;
 
 import java.util.concurrent.Semaphore;
-import static com.company.lesson13.MainClass.CARS_COUNT;
+import static lesson13.MainClass.CARS_COUNT;
 
 public class Tunnel extends Stage {
     static Semaphore semaphore = new Semaphore(CARS_COUNT / 2);

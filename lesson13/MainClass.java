@@ -1,4 +1,4 @@
-package com.company.lesson13;
+package lesson13;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

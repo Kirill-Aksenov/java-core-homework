@@ -1,4 +1,4 @@
-package com.company.lesson13;
+package lesson13;
 
 public class Road extends Stage {
     public Road(int length) {
